@@ -1,20 +1,33 @@
-## Hi there 👋
+# Hi, I'm Bibek Thapa 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+## Flutter Developer | Mobile App Enthusiast | Software Engineer
 
-<!--
-**wiznep/wiznep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate Flutter developer with a strong background in mobile app development. My goal is to create beautiful, efficient, and scalable applications that provide a seamless user experience.
 
-Here are some ideas to get you started:
+### 🚀 About Me:
+- 💻 Currently working on a **Flutter-based trading news app** focused on the Indian stock market.
+- 🌱 Always learning and improving my skills in **Dart**, **Flutter**, **Firebase**, and **API integration**.
+- 🎯 Building **offline-first e-learning apps** for rural Nepali students.
+- 📚 Enthusiast of **UI/UX design** and building intuitive, user-friendly interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools:
+- **Languages:** Dart, JavaScript, HTML, CSS
+- **Frameworks:** Flutter, Firebase
+- **Version Control:** Git, GitHub
+- **Tools:** VS Code, Android Studio, Xcode
+
+### 📂 Projects:
+- **[Gaun Gaun Ma Learning App](#)**: A mobile learning platform for rural students in Nepal, focused on offline-first capabilities and support for local languages.
+- **[Stock Trading News App](#)**: A Flutter-based app providing real-time trading news for the Indian stock market, integrating APIs for live updates.
+- **[Inshorts Trading News App](#)**: A short-form news app built in Flutter, delivering quick and concise trading updates.
+
+### 🌟 Highlights:
+- **Completed Flutter Projects:** Multiple apps for educational and trading domains.
+- **API Integration:** Experience integrating various APIs for real-time data, including stock market feeds.
+- **Responsive Design:** Expert in building responsive layouts and UIs that work seamlessly across devices.
+- **Collaboration:** Experience working with teams and using Git for version control.
+
+### 📫 Let's Connect:
+- [LinkedIn](#) | [Twitter](#) | [Portfolio](#)
+
+Feel free to reach out for collaborations, open-source contributions, or just to chat about Flutter development!
