@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
 ### 📂 Projects:
 - **[Gaun Gaun Ma Learning App](#)**: A mobile learning platform for rural students in Nepal, focused on offline-first capabilities and support for local languages.
 - **[Stock Trading News App](#)**: A Flutter-based app providing real-time trading news for the Indian stock market, integrating APIs for live updates.
-- **[Inshorts Trading News App](#)**: A short-form news app built in Flutter, delivering quick and concise trading updates.
+- **[Inshorts News App](#)**: A short-form news app built in Flutter, delivering quick and concise trading updates.
 
 ### 🌟 Highlights:
 - **Completed Flutter Projects:** Multiple apps for educational and trading domains.
@@ -28,6 +28,6 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
 - **Collaboration:** Experience working with teams and using Git for version control.
 
 ### 📫 Let's Connect:
-- [LinkedIn](#) | [Twitter](#) | [Portfolio](#)
+- [[LinkedIn](https://www.linkedin.com/in/bibek-thapa-962a292b2/)](#) | [Twitter](#) | [Portfolio](#)
 
 Feel free to reach out for collaborations, open-source contributions, or just to chat about Flutter development!
