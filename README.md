@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
 - 📚 Enthusiast of **UI/UX design** and building intuitive, user-friendly interfaces.
 
 ### 🔧 Technologies & Tools:
-- **Languages:** Dart, JavaScript, HTML, CSS , Python
+- **Languages:** Dart, Python, JavaScript, HTML, CSS
 - **Frameworks:** Flutter, Firebase
 - **Version Control:** Git, GitHub
-- **Tools:** VS Code, Android Studio, Xcode
+- **Tools:** VS Code, Android Studio, Git, Postman
 
 ### 📂 Projects:
 - **[Gaun Gaun Ma Learning App](#)**: A mobile learning platform for rural students in Nepal, focused on offline-first capabilities and support for local languages.
