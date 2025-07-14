@@ -29,6 +29,6 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
 - **Collaboration:** Experience working with teams and using Git for version control.
 
 ### 📫 Let's Connect:
-- [[LinkedIn](https://www.linkedin.com/in/bibek-thapa-962a292b2/) | [Twitter](https://x.com/wiznep1) | [Portfolio](#)
+- [LinkedIn](https://www.linkedin.com/in/bibek-thapa-962a292b2/) | [Twitter](https://x.com/wiznep1) | [Portfolio](#)
 
 Feel free to reach out for collaborations, open-source contributions, or just to chat about Flutter development!
