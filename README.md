@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
 - 📚 Enthusiast of **UI/UX design** and building intuitive, user-friendly interfaces.
 
 ### 🔧 Technologies & Tools:
-- **Languages:** Dart, Python, JavaScript, HTML, CSS
-- **Frameworks:** Flutter, Firebase
+- **Languages:** Dart, Python, JavaScript, HTML, CSS , PHP
+- **Frameworks:** Flutter, Firebase , Laravel , Django
 - **Version Control:** Git, GitHub
 - **Tools:** VS Code, Android Studio, Git, Postman
 
