@@ -1,18 +1,18 @@
 # Hi, I'm Bibek Thapa 👋
 
-## Flutter Developer | Mobile App Enthusiast | Software Engineer
+## Full Stack Developer | Mobile App Enthusiast | Software Engineer
 
-Welcome to my GitHub profile! I am a passionate Flutter developer with a strong background in mobile app development. My goal is to create beautiful, efficient, and scalable applications that provide a seamless user experience.
+Welcome to my GitHub profile! I am a passionate Flutter developer with a strong background in mobile and web app development. My goal is to create beautiful, efficient, and scalable applications that provide a seamless user experience.
 
 ### 🚀 About Me:
-- 💻 Currently working on a **Flutter-based trading news app** focused on the Indian stock market.
-- 🌱 Always learning and improving my skills in **Dart**, **Flutter**, **Firebase**, and **API integration**.
-- 🎯 Building **offline-first e-learning apps** for rural Nepali students.
-- 📚 Enthusiast of **UI/UX design** and building intuitive, user-friendly interfaces.
+- 💻 Currently working on a Flutter-based trading news app focused on the Indian stock market.
+- 🌱 Always learning and improving my skills in Dart, Flutter, Firebase, Laravel, and API integration.
+- 🎯 Building offline-first e-learning apps for rural Nepali students.
+- 📚 Enthusiast of UI/UX design and building intuitive, user-friendly interfaces.
 
 ### 🔧 Technologies & Tools:
-- **Languages:** Dart, Python, JavaScript, HTML, CSS , PHP
-- **Frameworks:** Flutter, Firebase , Laravel , Django
+- **Languages:** Dart, JavaScript, HTML, CSS, PHP
+- **Frameworks:** Flutter, Firebase, Laravel
 - **Version Control:** Git, GitHub
 - **Tools:** VS Code, Android Studio, Git, Postman
 
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a passionate Flutter developer with a strong 
 - **[Gaun Gaun Ma Learning App](#)**: A mobile learning platform for rural students in Nepal, focused on offline-first capabilities and support for local languages.
 - **[Stock Trading News App](#)**: A Flutter-based app providing real-time trading news for the Indian stock market, integrating APIs for live updates.
 - **[Inshorts News App](#)**: A short-form news app built in Flutter, delivering quick and concise trading updates.
-- **[Pdf Converter Web Application](#)**: The PDF Converter is a Python tool that lets users easily convert between formats like PDF to Word, Image to PDF, and Text to PDF.
+- **[Pdf Converter Web Application](#)**: The PDF Converter is a Laravel tool that lets users easily convert between formats like PDF to Word, Image to PDF, and Text to PDF.
 
 ### 🌟 Highlights:
 - **Completed Flutter Projects:** Multiple apps for educational and trading domains.
