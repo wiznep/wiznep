@@ -1,31 +1,55 @@
-Hi, I'm Bibek Thapa 👋
-SEO Specialist | Digital Marketing
+# Bibek Thapa 👋
 
-I focus on improving website visibility through search engine optimization, keyword research, and content strategy. My goal is to help projects gain organic traffic and sustainable growth.
+### SEO Specialist | Digital Marketing
 
-🚀 About Me:
-📈 Working on SEO strategies for content-driven websites
-🔍 Skilled in keyword research and search intent analysis
-🌱 Continuously learning technical SEO and Google algorithm updates
-🎯 Interested in building niche sites and scalable content platforms
-🔧 Skills:
-SEO:
-Keyword Research
-On-Page SEO
-Technical SEO (Basic)
-Content Optimization
-Digital Marketing:
-Content Strategy
-Basic Analytics (Google Search Console, Google Analytics)
-📂 Projects:
-SEO Blog (In Progress)
-A content-based website focused on ranking targeted keywords
-Keyword Research Collections
-Structured keyword datasets for niche targeting
-🌟 Focus Areas:
-Organic traffic growth
-Search engine ranking improvements
-Content-driven website strategy
-📫 Connect with Me:
-LinkedIn: https://www.linkedin.com/in/bibek-thapa-962a292b2/
-Twitter: https://x.com/wiznep1
+I specialize in improving website visibility through structured search engine optimization (SEO), keyword research, and content strategy. My focus is on building sustainable organic growth and performance-driven content systems.
+
+---
+
+## About
+
+- Working on SEO strategies for content-focused websites  
+- Experienced in keyword research and search intent analysis  
+- Continuously learning technical SEO and search engine updates  
+- Interested in scalable, traffic-driven niche platforms  
+
+---
+
+## Core Skills
+
+Search Engine Optimization (SEO)
+- Keyword Research & Competitive Analysis  
+- On-Page SEO (Meta, Headings, Internal Linking)  
+- Technical SEO (Site Structure, Performance Basics)  
+- Content Optimization & Strategy  
+
+Tools & Platforms
+- Google Search Console  
+- Google Analytics  
+- Ubersuggest / Ahrefs (Basic Usage)  
+- WordPress  
+
+---
+
+## Projects
+
+SEO Blog (In Progress)  
+Developing a content-driven website targeting structured keyword opportunities and organic growth.
+
+Keyword Research Collections  
+Maintaining organized datasets for niche keyword targeting and content planning.
+
+---
+
+## Focus Areas
+
+- Organic traffic growth  
+- Search engine ranking improvements  
+- Content-based website scaling  
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/bibek-thapa-962a292b2/  
+- Twitter: https://x.com/wiznep1  
