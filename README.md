@@ -1,38 +1,31 @@
 Hi, I'm Bibek Thapa 👋
-SEO Specialist | Digital Marketing Expert | Growth Strategist
+SEO Specialist | Digital Marketing
 
-I help businesses rank higher on Google, drive organic traffic, and grow online.
-My focus is on data-driven SEO strategies, content optimization, and long-term growth.
+I focus on improving website visibility through search engine optimization, keyword research, and content strategy. My goal is to help projects gain organic traffic and sustainable growth.
 
 🚀 About Me:
-📈 Helping websites grow with SEO, keyword research & content strategy
-🔍 Skilled in finding low-competition, high-traffic keywords
-🌱 Continuously learning advanced SEO, Google updates & ranking strategies
-🎯 Focused on building traffic-driven niche websites
-✍️ Creating high-quality, SEO-optimized content
-🔧 Skills & Expertise:
+📈 Working on SEO strategies for content-driven websites
+🔍 Skilled in keyword research and search intent analysis
+🌱 Continuously learning technical SEO and Google algorithm updates
+🎯 Interested in building niche sites and scalable content platforms
+🔧 Skills:
 SEO:
-Keyword Research (High Volume, Low Difficulty)
-On-Page SEO (Meta Tags, Headings, Internal Linking)
-Technical SEO (Site Speed, Mobile Optimization)
-Content SEO & Blogging Strategy
+Keyword Research
+On-Page SEO
+Technical SEO (Basic)
+Content Optimization
 Digital Marketing:
-Content Marketing
-Basic Social Media Strategy
-Conversion Optimization
-Tools:
-Google Search Console, Google Analytics, Ahrefs (or alternatives), Ubersuggest, WordPress
+Content Strategy
+Basic Analytics (Google Search Console, Google Analytics)
 📂 Projects:
-SEO Blog (Work in Progress)
-Building niche websites targeting high-ranking keywords
-Content Strategy Projects
-Creating SEO-focused blog structures and keyword plans
-🌟 Highlights:
-📊 Strong understanding of search engine algorithms & ranking factors
-🚀 Focused on organic growth (no shortcuts, no black-hat)
-🧠 Strategy-first approach to digital marketing
-📈 Goal: Build scalable websites generating consistent traffic
-📫 Let's Connect:
+SEO Blog (In Progress)
+A content-based website focused on ranking targeted keywords
+Keyword Research Collections
+Structured keyword datasets for niche targeting
+🌟 Focus Areas:
+Organic traffic growth
+Search engine ranking improvements
+Content-driven website strategy
+📫 Connect with Me:
 LinkedIn: https://www.linkedin.com/in/bibek-thapa-962a292b2/
 Twitter: https://x.com/wiznep1
-Portfolio: (Add your site)
