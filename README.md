@@ -1,34 +1,38 @@
-# Hi, I'm Bibek Thapa 👋
+Hi, I'm Bibek Thapa 👋
+SEO Specialist | Digital Marketing Expert | Growth Strategist
 
-## Full Stack Developer | Mobile App Enthusiast | Software Engineer
+I help businesses rank higher on Google, drive organic traffic, and grow online.
+My focus is on data-driven SEO strategies, content optimization, and long-term growth.
 
-Welcome to my GitHub profile! I am a passionate Flutter developer with a strong background in mobile and web app development. My goal is to create beautiful, efficient, and scalable applications that provide a seamless user experience.
-
-### 🚀 About Me:
-- 💻 Currently working on a Flutter-based trading news app focused on the Indian stock market.
-- 🌱 Always learning and improving my skills in Dart, Flutter, Firebase, Laravel, and API integration.
-- 🎯 Building offline-first e-learning apps for rural Nepali students.
-- 📚 Enthusiast of UI/UX design and building intuitive, user-friendly interfaces.
-
-### 🔧 Technologies & Tools:
-- **Languages:** Dart, JavaScript, HTML, CSS, PHP
-- **Frameworks:** Flutter, Firebase, Laravel
-- **Version Control:** Git, GitHub
-- **Tools:** VS Code, Android Studio, Git, Postman
-
-### 📂 Projects:
-- **[Gaun Gaun Ma Learning App](#)**: A mobile learning platform for rural students in Nepal, focused on offline-first capabilities and support for local languages.
-- **[Stock Trading News App](#)**: A Flutter-based app providing real-time trading news for the Indian stock market, integrating APIs for live updates.
-- **[Inshorts News App](#)**: A short-form news app built in Flutter, delivering quick and concise trading updates.
-- **[Pdf Converter Web Application](#)**: The PDF Converter is a Laravel tool that lets users easily convert between formats like PDF to Word, Image to PDF, and Text to PDF.
-
-### 🌟 Highlights:
-- **Completed Flutter Projects:** Multiple apps for educational and trading domains.
-- **API Integration:** Experience integrating various APIs for real-time data, including stock market feeds.
-- **Responsive Design:** Expert in building responsive layouts and UIs that work seamlessly across devices.
-- **Collaboration:** Experience working with teams and using Git for version control.
-
-### 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/bibek-thapa-962a292b2/) | [Twitter](https://x.com/wiznep1) | [Portfolio](#)
-
-Feel free to reach out for collaborations, open-source contributions, or just to chat about Flutter development!
+🚀 About Me:
+📈 Helping websites grow with SEO, keyword research & content strategy
+🔍 Skilled in finding low-competition, high-traffic keywords
+🌱 Continuously learning advanced SEO, Google updates & ranking strategies
+🎯 Focused on building traffic-driven niche websites
+✍️ Creating high-quality, SEO-optimized content
+🔧 Skills & Expertise:
+SEO:
+Keyword Research (High Volume, Low Difficulty)
+On-Page SEO (Meta Tags, Headings, Internal Linking)
+Technical SEO (Site Speed, Mobile Optimization)
+Content SEO & Blogging Strategy
+Digital Marketing:
+Content Marketing
+Basic Social Media Strategy
+Conversion Optimization
+Tools:
+Google Search Console, Google Analytics, Ahrefs (or alternatives), Ubersuggest, WordPress
+📂 Projects:
+SEO Blog (Work in Progress)
+Building niche websites targeting high-ranking keywords
+Content Strategy Projects
+Creating SEO-focused blog structures and keyword plans
+🌟 Highlights:
+📊 Strong understanding of search engine algorithms & ranking factors
+🚀 Focused on organic growth (no shortcuts, no black-hat)
+🧠 Strategy-first approach to digital marketing
+📈 Goal: Build scalable websites generating consistent traffic
+📫 Let's Connect:
+LinkedIn: https://www.linkedin.com/in/bibek-thapa-962a292b2/
+Twitter: https://x.com/wiznep1
+Portfolio: (Add your site)
